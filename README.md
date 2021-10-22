@@ -15,10 +15,7 @@ Mixing various ideas from different areas and gathering them all in one spot tha
 
 
   https://youtu.be/A1WXfWgODkE
-## Screenshots
 
-![App Screenshot](https://drive.google.com/file/d/1hVXAVAnDtKdb7i0U_TirpxB41SDIqHnt/view?usp=sharing)
-![App Screenshot](https://drive.google.com/file/d/192ArJGmgcgRYNcNUFgFUzzO0al7ytCDQ/view?usp=sharing)
 
   
 
